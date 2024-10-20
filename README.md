@@ -1,5 +1,5 @@
 # Unit Conversion Tool
-This application will provide unit conversions for length, volume, and mass between metric and imperial units.  
+This application is just an example of what I can do with vanilla JavaScript and HTML.
 
 ## Getting Started
 
