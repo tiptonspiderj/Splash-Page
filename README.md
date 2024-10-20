@@ -5,7 +5,7 @@ This application will provide unit conversions for length, volume, and mass betw
 
 Click on the image below to see the live website.
 
-[![application images](https://github.com/tiptonspiderj/Unit-Conversions/blob/main/Screenshot.png)](https://tiptonspiderj1-unit-conversion-tool.netlify.app/)
+[![application images](https://github.com/tiptonspiderj/splashPage/blob/main/images/Screenshot.png)](https://tiptonspiderj1-splashpage.netlify.app/)
 
 ### Installing for Windows
 
