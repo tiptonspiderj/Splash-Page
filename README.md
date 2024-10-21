@@ -1,4 +1,4 @@
-# Unit Conversion Tool
+# Splash Page
 This application is just an example of what I can do with vanilla JavaScript and HTML.
 
 ## Getting Started
