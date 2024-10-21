@@ -19,12 +19,10 @@ None
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Page Background Color | ![#ffffff](https://imageplaceholder.net/10x10/ffffff?text=) #ffffff |
-| Top Background Color | ![#6943ff](https://imageplaceholder.net/10x10/6943ff?text=) #6943ff |
-| Bottom Background Color | ![#1f2937](https://imageplaceholder.net/10x10/1f2937?text=) #1f2937 |
-| Top Text Color | ![#ffffff](https://imageplaceholder.net/10x10/ffffff?text=) #ffffff |
-| Bottom Text Color | ![#ccc1ff](https://imageplaceholder.net/10x10/ccc1ff?text=) #ccc1ff |
-| Button Color | ![#ffffff](https://imageplaceholder.net/10x10/ffffff?text=) #ffffff |
+| Grey Color | ![#575757](https://imageplaceholder.net/10x10/575757?text=) #575757 |
+| Purple Color | ![##85144b](https://imageplaceholder.net/10x10/85144b?text=) #85144b |
+| Yellow Color | ![#ffdc00](https://imageplaceholder.net/10x10/ffdc00?text=) #ffdc00 |
+
 
 
 ## Authors
